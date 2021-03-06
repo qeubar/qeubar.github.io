@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on qeubar blog</title>
+    <link>https://qeubar.github.io/posts/</link>
+    <description>Recent content in Posts on qeubar blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Mar 2021 16:39:00 -0800</lastBuildDate><atom:link href="https://qeubar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://qeubar.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 05 Mar 2021 16:39:00 -0800</pubDate>
+      
+      <guid>https://qeubar.github.io/posts/hello-world/</guid>
+      <description>Well figured I should have a blog at some point since my life is so eventful, well here we go.
+Oh you thought the first blog post title is cheesy? heh wait until the second one.
+No mas for now.
+-B</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qeubar blog</title>
+    <link>https://qeubar.github.io/</link>
+    <description>Recent content on qeubar blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Mar 2021 16:39:00 -0800</lastBuildDate><atom:link href="https://qeubar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://qeubar.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 05 Mar 2021 16:39:00 -0800</pubDate>
+      
+      <guid>https://qeubar.github.io/posts/hello-world/</guid>
+      <description>Well figured I should have a blog at some point since my life is so eventful, well here we go.
+Oh you thought the first blog post title is cheesy? heh wait until the second one.
+No mas for now.
+-B</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://qeubar.github.io/about/</link>
+      <pubDate>Fri, 05 Mar 2021 16:00:29 -0800</pubDate>
+      
+      <guid>https://qeubar.github.io/about/</guid>
+      <description>Some people call me Bardia, well that&amp;rsquo;s about it.
+This is a place for me to just go bluh bluh bluh.
+Disclaimer: No one forced you here, you don&amp;rsquo;t like it, you don&amp;rsquo;t buy it.</description>
+    </item>
+    
+  </channel>
+</rss>
